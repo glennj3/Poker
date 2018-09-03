@@ -3,8 +3,7 @@ Attempt at poker kata
 Professor Clark
 CSC 439
 2/25/18
-Here I have my test class. I'm pretty sure I messed up the syntax for appropriate
-Junit but it wasn't for lack of trying.
+Here I have my test class. 
  */
 import org.junit.Test;
 
