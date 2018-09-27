@@ -1,6 +1,5 @@
-/*Justin Glenn
+/*
 Attempt at poker kata
-Professor Clark
 CSC 439
 2/25/18
 Here I create a poker class which provides input from a file. Also where I debug and do fileinput.
